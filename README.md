@@ -1,0 +1,2 @@
+# GitTraining
+Gitの練習
