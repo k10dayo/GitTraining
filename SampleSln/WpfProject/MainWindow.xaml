@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
         <TextBlock Text="WOW"/>
-        <TextBlock Text="World"/>
+        <TextBlock Text="World End"/>
     </StackPanel>
 </Window>
