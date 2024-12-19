@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
         <TextBlock Text="佐々木"/>
-        <TextBlock Text="東ブクロ"/>
+        <TextBlock Text="小次郎"/>
     </StackPanel>
 </Window>
