@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
-        <TextBlock Text="Super"/>
-        <TextBlock Text="Hot"/>
+        <TextBlock Text="森田"/>
+        <TextBlock Text="東ブクロ"/>
     </StackPanel>
 </Window>
